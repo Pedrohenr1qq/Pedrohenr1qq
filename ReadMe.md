@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de desenvolvimento web FullStack<br>Entusiasta de programação, robótica e tecnologia em geral
+Estudante de desenvolvimento web FullStack<br>Entusiasta de programação, robótica e tecnologia em geral<br>Graduando em Ciência e Tecnologia pela Universidade Federal do Maranhão (UFMA).
 
 
 ## 🌐 Socials:
