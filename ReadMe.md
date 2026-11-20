@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro Henrique 👋
 
-Sou **Desenvolvedor Full Stack**, natural de **Raposa - MA**, e atualmente curso o **Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT)** na **Universidade Federal do Maranhão (UFMA)** (6º período).
+Sou **Desenvolvedor Full Stack**, natural de **São Luís - MA**, e atualmente curso o **Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT)** na **Universidade Federal do Maranhão (UFMA)** (6º período).
 
 Tenho experiência no desenvolvimento de aplicações web completas, APIs RESTful e sistemas em tempo real, com foco em código limpo, boas práticas e entrega de valor.
 
